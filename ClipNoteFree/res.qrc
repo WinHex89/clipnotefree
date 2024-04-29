@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/qm">
+        <file>qt_zh_CN.qm</file>
+        <file>qtbase_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/db">
+        <file>clipnote.db</file>
+    </qresource>
+</RCC>
