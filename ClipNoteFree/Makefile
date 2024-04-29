@@ -268,6 +268,7 @@ Makefile: ClipNote.pro ..\..\Qt\6.5.2\msvc2019_64\mkspecs\win32-msvc\qmake.conf 
 		..\..\Qt\6.5.2\msvc2019_64\lib\Qt6Core.prl \
 		..\..\Qt\6.5.2\msvc2019_64\lib\Qt6EntryPoint.prl \
 		..\..\Qt\6.5.2\msvc2019_64\mkspecs\features\build_pass.prf \
+		res.qrc \
 		release\qmake_qmake_qm_files.qrc \
 		debug\qmake_qmake_qm_files.qrc \
 		..\..\Qt\6.5.2\msvc2019_64\lib\Qt6Widgetsd.prl \
@@ -463,6 +464,7 @@ ClipNote.pro:
 ..\..\Qt\6.5.2\msvc2019_64\lib\Qt6Core.prl:
 ..\..\Qt\6.5.2\msvc2019_64\lib\Qt6EntryPoint.prl:
 ..\..\Qt\6.5.2\msvc2019_64\mkspecs\features\build_pass.prf:
+res.qrc:
 release\qmake_qmake_qm_files.qrc:
 debug\qmake_qmake_qm_files.qrc:
 ..\..\Qt\6.5.2\msvc2019_64\lib\Qt6Widgetsd.prl:
