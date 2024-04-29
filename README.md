@@ -23,10 +23,10 @@ ClipNote是一款集知识输入和输出于一体的高效视频学习工作流
 - 音量+
 - 音量-
 - 自定义链接格式
-- 浏览器扩展
 ## 技术
 - Qt 6.5.2
 - QWebsockets
 - QConcurrent
 - QSql
 - QHotKey
+- 浏览器扩展
